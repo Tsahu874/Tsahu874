@@ -8,7 +8,7 @@
 - 📫 How to reach me: www.linkedin.com/in/tanishka-sahu
 - 😄 Pronouns: She/her
 
-## :globe_with_meridians::hammer_and_wrench:Languages & Technologies 
+## :globe_with_meridians:Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
