@@ -1,4 +1,4 @@
-👋 **Hey there!** 
+## 👋 Hey there! 
 ## 🚀About Me
 Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, dedicated to designing intuitive user experiences. Currently, I am exploring Machine Learning and Artificial Intelligence, focusing on building intelligent solutions and predictive models. Feel free to explore the visuals below to learn more about me and my skill set!
 
