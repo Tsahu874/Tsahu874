@@ -1,42 +1,59 @@
-## Hi,this is Tanishka 👋
+👋 **Hey there!** 
 ## 🚀About Me
+Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, dedicated to designing intuitive user experiences. Currently, I am exploring Machine Learning and Artificial Intelligence, focusing on building intelligent solutions and predictive models. Feel free to explore the visuals below to learn more about me and my skill set!
 
-**Tsahu874/Tsahu874** Web developer skilled in modern tech stacks and passionate about design. Currently exploring machine learning and always eager to enhance my skills.
-
-- 🔭 I’m currently working on Machine Learning applications
+- 🧠 Building Machine Learning models and experimenting with AI-driven solutions.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 📫 How to reach me: www.linkedin.com/in/tanishka-sahu
-- 😄 Pronouns: She/her
+- 🌍 Pronouns: She/her
 
 ## :globe_with_meridians:Skills
+<p>Here are some technologies I use regularly:</p>
+<ul>
+  <li>
+    <strong>Frontend:</strong>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    </a>
+  </li>
+  <li>
+    <strong>Backend:</strong>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <span> (Flask), SQL</span>
+  </li>
+  <li>
+    <strong>Tools & Platforms:</strong>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    </a>
+  </li>
+</ul>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsahu874&layout=compact&theme=radical)
 
 ## :🌱 Currently Learning 
-![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
 
 ## 🔍 GitHub Metrics
 ![Tsahu874's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsahu874&show_icons=true&theme=radical)
