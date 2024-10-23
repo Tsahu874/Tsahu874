@@ -34,6 +34,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsahu874&layout=compact&theme=radical)
 
+## :🌱 Currently Learning 
+![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+
 ## 🔍 GitHub Metrics
 ![Tsahu874's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsahu874&show_icons=true&theme=radical)
 
