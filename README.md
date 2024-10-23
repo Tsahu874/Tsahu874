@@ -26,12 +26,18 @@ Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, 
     </a>
   </li>
   <li>
-    <strong>Backend:</strong>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <span> (Flask), SQL</span>
-  </li>
+<strong>Backend:</strong>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<span> (Flask), </span>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<span> MySQL</span>
+
+
+ </li>
   <li>
     <strong>Tools & Platforms:</strong>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -40,9 +46,9 @@ Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, 
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    </a>
+    </a> -->
   </li>
 </ul>
 
@@ -50,12 +56,12 @@ Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsahu874&layout=compact&theme=radical)
 
-## :🌱 Currently Learning 
+## 🌱 Currently Learning 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
-## 🔍 GitHub Metrics
+## 📊 GitHub Stats & Metrics
 ![Tsahu874's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsahu874&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
@@ -68,36 +74,36 @@ Hi, I'm Tanishka—a passionate web developer proficient in modern tech stacks, 
 
 ## ✨ Project Spotlight 📷
 # Python Projects
-1 [To-Do List](https://github.com/Tsahu874/To_Do_List.git)
+1. [To-Do List](https://github.com/Tsahu874/To_Do_List.git)
 
-- **Description**: This is a To-Do List application built using Python's tkinter module, where users can add and delete tasks from the list.
-- **Language**: Python
+- This is a To-Do List application built using Python's tkinter module, where users can add and delete tasks from the list.
+- **Technologies Used**: Python
 
-2 [Number Tracker](https://github.com/Tsahu874/Number-Tracker.git)
+2. [Number Tracker](https://github.com/Tsahu874/Number-Tracker.git)
 
-- **Description**: This is a Phone Number Tracer where users can input a phone number to retrieve its timezone, carrier, and registered region information.
-- **Language**: Python
+- This is a Phone Number Tracer where users can input a phone number to retrieve its timezone, carrier, and registered region information.
+- **Technologies Used**: Python
 
-3 [Student Management](https://github.com/Tsahu874/student_management.git)
-- **Description**: This is an Education Management System that allows faculty to add, delete, and update student details.
+3. [Student Management](https://github.com/Tsahu874/student_management.git)
+- This is an Education Management System that allows faculty to add, delete, and update student details.
 - **Technologies Used**: Python, Flask, SQLAlchemy, SQLite, HTML, Bootstrap
 
 # Web Development Projects
-1 [Weather App](https://github.com/Tsahu874/Weather_App.git)
-- **Description**: This Weather App offers real-time updates. Users can input a city name to receive temperature, weather conditions, wind speed, and humidity, all within a vibrant and user-friendly interface.
+1. [Weather App](https://github.com/Tsahu874/Weather_App.git)
+- This Weather App offers real-time updates. Users can input a city name to receive temperature, weather conditions, wind speed, and humidity, all within a vibrant and user-friendly interface.
 - **Technologies Used**: HTML, CSS , Js and API integration
 
-2 [Guess Number](https://github.com/Tsahu874/Guess_My_Number.git)
+2. [Guess Number](https://github.com/Tsahu874/Guess_My_Number.git)
 
-- **Description**: This is a web-based number guessing game where players must guess a secret number between 1 and 20. The game provides feedback on guesses and tracks the score and high score.
+- This is a web-based number guessing game where players must guess a secret number between 1 and 20. The game provides feedback on guesses and tracks the score and high score.
 - **Technologies Used**: HTML, CSS , Js
 
-3 [Theme clock](https://github.com/Tsahu874/Theme_clock.git)
-- **Description**: A stylish clock app with dark and light modes, displaying the current time and date with rotating hands. Toggle themes for a customized look.
+3. [Theme clock](https://github.com/Tsahu874/Theme_clock.git)
+- A stylish clock app with dark and light modes, displaying the current time and date with rotating hands. Toggle themes for a customized look.
 - **Technologies Used**: HTML, CSS , Js
 
-4 [Drum Kit](https://github.com/Tsahu874/Drum_Kit-.git)
-- **Description**: An interactive web drum kit allowing users to play sounds by clicking buttons or pressing keys. Enjoy vibrant visuals and responsive audio feedback.
+4. [Drum Kit](https://github.com/Tsahu874/Drum_Kit-.git)
+- An interactive web drum kit allowing users to play sounds by clicking buttons or pressing keys. Enjoy vibrant visuals and responsive audio feedback.
 - **Technologies Used**: HTML, CSS , Js
 
 
